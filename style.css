@@ -34,12 +34,12 @@ color: white;
 
 .main-body-style p:nth-child(odd){
     background-color:rgb(39, 45, 45);
-    padding: 10px;
+    padding: 20px;
 }
 
 .main-body-style p:nth-child(even){
     background-color: blue;
-    padding: 10px;
+    padding: 20px;
 }
  
 .main-body-style h2{
@@ -51,7 +51,7 @@ color: white;
     padding: 1em;
 }
 img{
-    width: 300px;
+    width: 15%;
     float: left;
     margin: 1em;
     opacity: 0.9;
